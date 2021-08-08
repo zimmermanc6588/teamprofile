@@ -1,0 +1,25 @@
+{
+  "name": "teamprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimmermanc6588/teamprofile.git"
+  },
+  "author": "Clarissa Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zimmermanc6588/teamprofile/issues"
+  },
+  "homepage": "https://github.com/zimmermanc6588/teamprofile#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
